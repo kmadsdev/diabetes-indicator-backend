@@ -1,14 +1,14 @@
 # Diabetes Indicator - Backend
 **API for the Diabetes Indicator App <br>**
-- Acess the website here: [https://kmads.dev/diabetes-indicator](https://kmads.dev/diabetes-indicator/) <br>
-- Acess the repository here: [https://kmads.dev/source-code/diabetes-indicator](https://kmads.dev/source-code/diabetes-indicator)
+- Access the website here: [https://kmads.dev/diabetes-indicator](https://kmads.dev/diabetes-indicator/) <br>
+- Access the repository here: [https://kmads.dev/source-code/diabetes-indicator](https://kmads.dev/source-code/diabetes-indicator)
 
 # Deployment
 - **Frontend: [Source](https://source.kmads.dev/diabetes-indicator/) | [Live Deploy](https://kmads.dev/diabetes-indicator/)**
-- **Backend + Machine Learning: [Source](https://source.kmadsdev/diabetes-indicator-backend/)**
+- **Backend + Machine Learning: [Source](https://source.kmads.dev/diabetes-indicator-backend/)**
 
 # API
-You can acess the API here:
+You can access the API here:
 ```
 https://api.kmads.dev/diabetes-indicator/<args>
 ```
